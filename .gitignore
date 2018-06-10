@@ -22,9 +22,12 @@
 #*.deployproj
 #
 
+[Bb]in/
+[Oo]bj/
+
 # Delphi compiler-generated binaries (safe to delete)
-*.exe
-*.dll
+#*.exe
+#*.dll
 *.bpl
 *.bpi
 *.dcp
